@@ -9,3 +9,5 @@ Find the list of DLLs that application attempt to load, but either don’t exist
 #DLL side-loading  <br />
 malware places a spoofed malicious DLL file in a Windows’ WinSxS directory so that the operating system loads it instead of the legitimate file.
 
+
+![]/DLL-Hijacking/images/1.png) <br />
