@@ -10,4 +10,4 @@ Find the list of DLLs that application attempt to load, but either don’t exist
 malware places a spoofed malicious DLL file in a Windows’ WinSxS directory so that the operating system loads it instead of the legitimate file.
 
 
-![](/DLL-Hijacking/images/1.JPG) <br />
+![](images/1.JPG) <br />
